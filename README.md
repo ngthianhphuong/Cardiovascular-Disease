@@ -22,6 +22,6 @@ Template code is provided in the ```cardio.ipynb``` notebook file. You will also
 ## Result summary
 A non-technical summary of this project's results can be found in this Medium post (link will be updated soon).
 ## Licensing, Authors, Acknowledgements
-The dataset is from [Kaggle](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset). Thanks to all contributors who having published the data.
+The dataset is from [Kaggle](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset). Thanks to all contributors for having published the data.
 
 
