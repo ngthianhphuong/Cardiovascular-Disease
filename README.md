@@ -1,6 +1,6 @@
 # Cardiovascular Disease Data Analysis
 This project gives an overview of the relationship between medical examination features such as blood pressure, cholesterol level, glucose level and cardiovascular disease risk.
-Besides, based on given data, I answer some questions of interest that might be useful for people who are interested in medicine data analysis.
+Besides, based on given data, I answer some questions of interest that might be useful for people who are interested in healthcare data analysis.
 ## Installation
 This project requires Python and classical librairies used in data science such as pandas, matplotlib and seaborn.
 To easily check the code at the same time as the output, it is recommended to install Anaconda and Jupyter Notebook.
