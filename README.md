@@ -20,7 +20,7 @@ I will be answering the following questions:
 ## File Description
 Template code is provided in the ```cardio.ipynb``` notebook file. You will also be required to download the dataset ```cardio.csv``` to have the code run successfully.
 ## Result summary
-A non-technical summary of this project's results can be found in this Medium post (link will be updated soon).
+A non-technical summary of this project's results can be found in this [Medium post](https://medium.com/@fnguyen/you-are-young-and-healthy-should-you-worry-about-cardiovascular-disease-cd8764382d50).
 ## Licensing, Authors, Acknowledgements
 The dataset is from [Kaggle](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset). Thanks to all contributors for having published the data.
 
